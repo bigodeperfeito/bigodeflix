@@ -1,5 +1,8 @@
 header{
-    background-color: url("https://png.pngtree.com/background/20211215/original/pngtree-abstract-geometric-background-golden-black-gradient-background-picture-image_1450744.jpg");
+    background-color: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.pngtree.com%2Ffreebackground%2Fabstract-geometric-background-golden-black-gradient-background_1450744.html&psig=AOvVaw1Ab77OzmluhWGGvhp1yALv&ust=1751117191666000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCTgKDakY4DFQAAAAAdAAAAABAE");
+    color: gold;
     font-size: 25px;
     border-bottom: solid 2px gold;
+    padding: 20px;
+    height: 30px;
 }
