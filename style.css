@@ -5,7 +5,7 @@
 
 
 header{
-    background-color: rgb(57, 53, 31);
+    background-image: linear-gradient(gold, black);
     color: black;
     font-size: 25px;
     border-bottom: solid 2px gold;
