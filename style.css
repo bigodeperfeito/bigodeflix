@@ -6,7 +6,7 @@
 
 header{
     background-image: linear-gradient(gold, black);
-    color: black;
+    color: whitesmoke;
     font-size: 25px;
     border-bottom: solid 2px gold;
     padding: 20px;
@@ -25,3 +25,14 @@ header{
     margin-right: 8%;
 }
 
+
+img{
+    height: 200px;
+
+}
+
+
+.categoria-videos{
+    display: flex;
+    
+}
